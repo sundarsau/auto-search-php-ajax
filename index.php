@@ -25,9 +25,6 @@
                 <div id="suggUser"></div>
             </div>
         </form>
-        <div class="table-responsive" id="dispUser">
-            <!-- Display the user details -->
-        </div>
     </div>
     <script src="https://code.jquery.com/jquery-3.7.1.js"></script>
     <script src="js/autosearch.js"></script>

@@ -10,14 +10,13 @@ h1{
 }
 .sugg-list{
     height: 150px;
-    width: 395px;
-    background: #dbe5e2;
     overflow-y: auto;
     padding: 5px;
-    cursor: pointer;
-    position:absolute;
+    cursor:pointer;
 }
 .line1:hover{
-    background: rgb(88, 88, 236);
-    color: #fff;
+    background:blue;
+    color:#fff;
 }
+
+
