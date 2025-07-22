@@ -21,6 +21,7 @@
                     name="user_name"
                     id="user_name"
                     placeholder="Type in..."
+                    autocomplete="off"
                     onkeyup="suggestUser(this.value)" />
                 <div id="suggUser"></div>
             </div>
